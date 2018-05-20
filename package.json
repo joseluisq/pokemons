@@ -1,6 +1,6 @@
 {
   "name": "pokemons",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Full JSON file with every Pokémon basic info. Useful for prototyping.",
   "main": "pokemons.json",
   "repository": "joseluisq/pokemons",
