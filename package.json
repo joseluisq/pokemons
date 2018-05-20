@@ -1,0 +1,25 @@
+{
+  "name": "pokemons",
+  "version": "1.0.0",
+  "description": "Full JSON file with every Pokémon basic info. Useful for prototyping.",
+  "main": "pokemons.json",
+  "repository": "joseluisq/pokemons",
+  "license": "MIT",
+  "author": {
+    "name": "José Luis Quintana",
+    "url": "http://git.io/joseluisq"
+  },
+  "files": [
+    "pokemons.json",
+    "README.md",
+    "LICENSE.md"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [
+    "pokemon",
+    "pokeapi",
+    "pokemons"
+  ]
+}
